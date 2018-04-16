@@ -12,3 +12,9 @@ El código está escrito para Python 2.
 
 Licencia: Creative Commons Attribution-NonCommercial 4.0 International License 
 
+Ficheros:
+- README.md: esta descripción.
+- bach.csv: dataset generado.
+- bachScraper_v00.py: fichero con el código para generar el dataset.
+- documentacion.pdf: documento con las respuestas a las preguntas de la práctica.
+
